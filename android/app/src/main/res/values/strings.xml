@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ADI FACE</string>
+    <string name="title_activity_main">ADI FACE</string>
+    <string name="package_name">com.face.recognition.app</string>
+    <string name="custom_url_scheme">com.face.recognition.app</string>
+</resources>
